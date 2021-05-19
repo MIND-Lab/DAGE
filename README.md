@@ -17,6 +17,3 @@ To run DAGE on either DBLP or Citeseer-M10, please follow these steps:
 - configure the hyper-parameters of DAGE or leave them as they are;
 - close the config.py file;
 - execute main.py (i.e., python main.py)
-
-# Pubblication
-Fersini, E. and Messina, E. and Mottadelli, S. P. (2021). Deep Attributed Graph Embedding. In Proceedings of the 29th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning. (SUBMITTED)
