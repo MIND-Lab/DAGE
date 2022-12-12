@@ -20,6 +20,7 @@ year="2022",
 publisher="Springer International Publishing",
 pages="181--192"
 }
+}
 
 # Requirements
 - python 3.8.8
