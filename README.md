@@ -1,5 +1,7 @@
 # Deep Attributed Graph Embedding
-This repository contains both the source code of DAGE and the datasets used during the evaluation.
+This the official repository of DAGE (Deep Attributed Graph Embedding), where both the source code and the datasets are available.
+DAGE has been published at MDAI 2022, [click here to read the paper](https://link.springer.com/chapter/10.1007/978-3-031-13448-7_15). 
+
 
 # Requirements
 - python 3.8.8
