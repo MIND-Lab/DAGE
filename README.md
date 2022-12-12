@@ -7,12 +7,8 @@ If you decide to use this resource, please cite:
 ::
 
 @InProceedings{10.1007/978-3-031-13448-7_15,
-author="Fersini, Elisabetta
-and Mottadelli, Simone
-and Carbonera, Michele
-and Messina, Enza",
-editor="Torra, Vicen{\c{c}}
-and Narukawa, Yasuo",
+author="Fersini, Elisabetta and Mottadelli, Simone and Carbonera, Michele and Messina, Enza",
+editor="Torra, Vicen{\c{c}} and Narukawa, Yasuo",
 title="Deep Attributed Graph Embeddings",
 booktitle="Modeling Decisions for Artificial Intelligence",
 year="2022",
