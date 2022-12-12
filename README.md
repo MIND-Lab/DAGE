@@ -6,7 +6,6 @@ If you decide to use this resource, please cite:
 
 ::
 
-   
 @InProceedings{10.1007/978-3-031-13448-7_15,
 author="Fersini, Elisabetta
 and Mottadelli, Simone
@@ -18,8 +17,7 @@ title="Deep Attributed Graph Embeddings",
 booktitle="Modeling Decisions for Artificial Intelligence",
 year="2022",
 publisher="Springer International Publishing",
-pages="181--192"
-}
+pages="181--192",
 }
 
 # Requirements
