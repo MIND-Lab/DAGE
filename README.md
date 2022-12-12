@@ -6,14 +6,28 @@ If you decide to use this resource, please cite:
 
 ::
 
+inproceedings{nozza-etal-2017-multi,
+    title = "A Multi-View Sentiment Corpus",
+    author = "Nozza, Debora  and
+      Fersini, Elisabetta  and
+      Messina, Enza",
+    booktitle = "Proceedings of the 15th Conference of the {E}uropean Chapter of the Association for Computational Linguistics: Volume 1, Long Papers",
+    month = apr,
+    year = "2017",
+    address = "Valencia, Spain",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/E17-1026",
+    pages = "273--280",
+}
+
 @inproceedings{10.1007/978-3-031-13448-7_15,
-author="Fersini, Elisabetta and Mottadelli, Simone and Carbonera, Michele and Messina, Enza",
-editor="Torra, Vicen{\c{c}} and Narukawa, Yasuo",
-title="Deep Attributed Graph Embeddings",
-booktitle="Modeling Decisions for Artificial Intelligence",
-year="2022",
-publisher="Springer International Publishing",
-pages="181--192",
+  author="Fersini, Elisabetta and Mottadelli, Simone and Carbonera, Michele and Messina, Enza",
+  editor="Torra, Vicen{\c{c}} and Narukawa, Yasuo",
+  title="Deep Attributed Graph Embeddings",
+  booktitle="Modeling Decisions for Artificial Intelligence",
+  year="2022",
+  publisher="Springer International Publishing",
+  pages="181--192",
 }
 
 # Requirements
