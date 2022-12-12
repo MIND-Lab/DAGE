@@ -2,17 +2,7 @@
 This the official repository of DAGE (Deep Attributed Graph Embedding), where both the source code and the datasets are available.
 DAGE has been published at MDAI 2022, [click here to read the paper](https://link.springer.com/chapter/10.1007/978-3-031-13448-7_15). 
 
-If you decide to use this resource, please cite:
-::
-    @inproceedings{10.1007/978-3-031-13448-7_15,
-      author="Fersini, Elisabetta and Mottadelli, Simone and Carbonera, Michele and Messina, Enza",
-     editor="Torra, Vicen{\c{c}} and Narukawa, Yasuo",
-     title="Deep Attributed Graph Embeddings",
-     booktitle="Modeling Decisions for Artificial Intelligence",
-     year="2022",
-     publisher="Springer International Publishing",
-     pages="181--192",
-    }
+
 
 
 # Requirements
